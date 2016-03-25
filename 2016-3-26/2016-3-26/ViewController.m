@@ -25,6 +25,10 @@
         NSLog(@"郭振，大林");
     }
     
+    
+    //老茂和大林
+    NSLog(@"你俩有事儿啊？");
+    
 }
 
 - (void)didReceiveMemoryWarning {
