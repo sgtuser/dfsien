@@ -19,6 +19,12 @@
     //dxedxedxexedcefc
     
     NSLog(@"sdffdfs");
+    
+    //重写for
+    for (int i = 0 ; i < 3; i++) {
+        NSLog(@"郭振，大林");
+    }
+    
 }
 
 - (void)didReceiveMemoryWarning {
