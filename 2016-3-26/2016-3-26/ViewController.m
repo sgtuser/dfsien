@@ -18,7 +18,7 @@
     [super viewDidLoad];
     //dxedxedxexedcefc
     
-    NSLog(@"sdffdfs");
+     NSLog(@"sdffdfs");
     //茂哥，智商不够，身高来凑
     
     for (int i = 0; i < 5; i++) {
@@ -28,6 +28,17 @@
     
     //同时出现两个人
     NSLog(@"只能有一个人走出去");
+
+    
+    //重写for
+    for (int i = 0 ; i < 3; i++) {
+        NSLog(@"郭振，大林");
+    }
+    
+    
+    //老茂和大林
+    NSLog(@"你俩有事儿啊？");
+
     
 }
 
