@@ -19,6 +19,11 @@
     //dxedxedxexedcefc
     
     NSLog(@"sdffdfs");
+    //茂哥，智商不够，身高来凑
+    
+    for (int i = 0; i < 5; i++) {
+        NSLog(@"Hello world");
+    }
 }
 
 - (void)didReceiveMemoryWarning {
