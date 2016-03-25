@@ -24,6 +24,11 @@
     for (int i = 0; i < 5; i++) {
         NSLog(@"Hello world");
     }
+    
+    
+    //同时出现两个人
+    NSLog(@"只能有一个人走出去");
+    
 }
 
 - (void)didReceiveMemoryWarning {
